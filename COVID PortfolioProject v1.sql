@@ -1,3 +1,27 @@
+--# Analysis-on-the-global-impact-of-COVID19-disease
+--Steps:
+--Step #1 Data Collection
+--*the data was collected online on kaggle
+--Step #2 Data Cleaning
+--*treat missing & duplicate data
+--*look into the data type & values to fix data inconsistency
+--Step #3 Data Analysis
+--*likelihood of dying if someone contact covid in the US 
+--*percentage of population contacted covid in the US 
+--*countries with highest infection rates compared to population 
+--*countries with highest death count per population 
+--*continents with highest death count
+--*total deaths by date
+--*world total deaths
+--*total population vaccinated by location
+--*analysis using CTE
+--Step #4 Data Vissualization
+--*he visualization can be found in my Tableau link (https://public.tableau.com/app/profile/atamgbo.ayuwu/viz/Covid-19Dashboard_16351836180290/Dashboard1)
+--Step #5 Conclusion
+--*in August 2021, Covid-19 population infection was forecasted to be on a continuous rise. As of August 2021, United States had the highest infection rate but United Kingdom was projected to have the highest infection cases by an average of 19.05% one year later.
+--*covid-19 has accounted for a total death rate of 4.9 million people which is 2.3% of the total cases reported globally between December 2019 and August 2021
+--*Europe, North America and South America were the most affected by Covid-19
+
 --BY LOCATION
 Select*
 From PortfolioP..COVID_Deaths$
