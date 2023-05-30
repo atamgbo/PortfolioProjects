@@ -1,8 +1,9 @@
---# Analysis-on-the-global-impact-of-COVID19-disease
+--# Analysis-on-the-global-impact-of-COVID19-disease using SQL
 --Steps:
 --Step #1 Data Collection
 --*the data was collected online on kaggle
 --Step #2 Data Cleaning
+--*the data was cleaned in Excel
 --*treat missing & duplicate data
 --*look into the data type & values to fix data inconsistency
 --Step #3 Data Analysis
